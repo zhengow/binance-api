@@ -3,4 +3,4 @@ project(binance_api)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(binance_api main.cpp)
+add_executable(binance-api main.cpp)
